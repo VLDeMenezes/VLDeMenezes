@@ -1,8 +1,10 @@
-👋 Hey bienvenido! Victor Leandro De Menezes es mi nombre, pero puedes llamarme para una entrevista 😏
+##👋 Hey bienvenido!
+Victor Leandro De Menezes es mi nombre, pero puedes llamarme para una entrevista 😏
 
 ---
 
-👋 Hey welcome! I believe you already read my name, Victor L. De Menezes but also you can call me: "for a entreview".
+##👋 Hey welcome!
+I believe you already read my name, Victor L. De Menezes but also you can call me: "for a entreview".
 
 ### Sobre mí | About Me
 
@@ -14,7 +16,7 @@ I'm Full Stack developer, although passionate about the Front End, also... a Law
 
 ### Tecnologías y Herramientas | Technologies and Tools
 
-## que estoy utilizando pero el ser autodidacta me permite aprender lo que sea necesario || that I´m using, algo bein self-taught allow me to learn what is necessary.
+Que actualmente estoy utilizando pero el ser autodidacta me permite aprender lo que sea necesario || That I´m already using, algo bein self-taught allow me to learn what is necessary.
 
 - 📲Frontend:📲 HTML, CSS, JavaScript, TypeScript, React, Next.js. TailwindCss, Boostrap.
 - 💾Backend:💾 Node.js, Express, MongoDB, PostgreSQL, TypeORM.
