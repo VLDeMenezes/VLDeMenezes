@@ -26,6 +26,7 @@ Que actualmente estoy utilizando pero el ser autodidacta me permite aprender lo 
 
 ### Proyectos Destacados | Featured Projects
 
+- [NEARVET](https://github.com/VLDeMenezes/NearVet) - App para veterinarias con CRUD de Usuarios, Mascotas, Veterinarios, Turnos, Historias clinicas, con integración de pasarela de pagos || App for veterinary clinics with CRUD of Users, Pets, Veterinarians, Appointments, Medical records, with payment gateway integration
 - [ShopAll](https://github.com/VLDeMenezes/ShopAll) - Modelo de E-comerce con autenticación para el pedido de ordenes de electronica || E-commerce model with authentication for the ordering of electronics items
 
 - [Leyria&DeMenezes](https://github.com/VLDeMenezes/L-DM) - App de estudio juridico para agendar turnos online || Law firm app to schedule appointments online.
@@ -36,5 +37,5 @@ Que actualmente estoy utilizando pero el ser autodidacta me permite aprender lo 
 
 ### Contacto | Contact
 
-📰- **LinkedIn:** [Front End Developer](https://linkedin.com/in/demenezesvictor)
+📰- **LinkedIn:** [Full Stack Developer](https://linkedin.com/in/demenezesvictor)
 📧- **Correo Electrónico:** Estudiodemenezes@gmail.com
