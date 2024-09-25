@@ -28,15 +28,18 @@ Que actualmente estoy utilizando pero el ser autodidacta me permite aprender lo 
 ### Proyectos Destacados | Featured Projects
 
 - [NEARVET](https://github.com/VLDeMenezes/NearVet) - App para veterinarias con CRUD de Usuarios, Mascotas, Veterinarios, Turnos, Historias clinicas, con integración de pasarela de pagos || App for veterinary clinics with CRUD of Users, Pets, Veterinarians, Appointments, Medical records, with payment gateway integration
+  [Visit deploy](https://near-vet-front.vercel.app/)
+  
 - [ShopAll](https://github.com/VLDeMenezes/ShopAll) - Modelo de E-comerce con autenticación para el pedido de ordenes de electronica || E-commerce model with authentication for the ordering of electronics items
 
 - [Leyria&DeMenezes](https://github.com/VLDeMenezes/L-DM) - App de estudio juridico para agendar turnos online || Law firm app to schedule appointments online.
-
-- [ShowFilms ](https://github.com/VLDeMenezes/ShowFilms) - App para poder mostrar peliculas, su descripcion, autores, director y su califiacion mediante un backend || App to be able to show movies, their description, authors, director and their rating through a backend
+ [Visit deploy](https://l-dm.vercel.app/)  
+  
+- [ShowFilms](https://github.com/VLDeMenezes/ShowFilms) - App para poder mostrar peliculas, su descripcion, autores, director y su califiacion mediante un backend || App to be able to show movies, their description, authors, director and their rating through a backend
 
 ---
 
 ### Contacto | Contact
-
 📰- **LinkedIn:** [Full Stack Developer](https://linkedin.com/in/demenezesvictor)
 📧- **Correo Electrónico:** Estudiodemenezes@gmail.com
+
