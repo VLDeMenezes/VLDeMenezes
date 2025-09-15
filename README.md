@@ -13,7 +13,7 @@ Soy Full Stack developer, aunque me apasiona el Front End, Tambien abogado con e
 
 I'm Full Stack developer, although passionate about the Front End, also... a Lawyer with a Specialization on procedural law and a lot of experience, believe me this things can coexist and have its awesome side. I'm a native Spanish native but I learned English since I was very young.
 
-My portafolio: [https://vldm-portafolio.vercel.app/](https://vldm.is-a.dev/)
+My portafolio: https://vldm.is-a.dev/
 ---
 
 ### Tecnologías y Herramientas | Technologies and Tools
